@@ -1,0 +1,1 @@
+<html><head><title>Car Rental</title></head><body>Welcome to Car Rental System</body></html>

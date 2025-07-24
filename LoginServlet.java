@@ -1,0 +1,1 @@
+package com.servlet; import javax.servlet.*; import javax.servlet.http.*; public class LoginServlet extends HttpServlet { protected void doPost(HttpServletRequest req, HttpServletResponse res) { } }
